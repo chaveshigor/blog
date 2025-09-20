@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chaveshigor.github.io/blog/pt/categories/</loc>
+    <loc>https://higor.blog/pt/categories/</loc>
     <lastmod>2025-09-20T15:32:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chaveshigor.github.io/blog/en/categories/"
+                href="https://higor.blog/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://chaveshigor.github.io/blog/pt/categories/"
+                href="https://higor.blog/pt/categories/"
                 />
   </url><url>
-    <loc>https://chaveshigor.github.io/blog/pt/</loc>
+    <loc>https://higor.blog/pt/</loc>
     <lastmod>2025-09-20T15:32:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chaveshigor.github.io/blog/en/"
+                href="https://higor.blog/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://chaveshigor.github.io/blog/pt/"
+                href="https://higor.blog/pt/"
                 />
   </url><url>
-    <loc>https://chaveshigor.github.io/blog/pt/posts/meu-post/</loc>
+    <loc>https://higor.blog/pt/posts/meu-post/</loc>
     <lastmod>2025-09-20T15:32:09-03:00</lastmod>
   </url><url>
-    <loc>https://chaveshigor.github.io/blog/pt/categories/not%C3%ADcias/</loc>
+    <loc>https://higor.blog/pt/categories/not%C3%ADcias/</loc>
     <lastmod>2025-09-20T15:32:09-03:00</lastmod>
   </url><url>
-    <loc>https://chaveshigor.github.io/blog/pt/posts/</loc>
+    <loc>https://higor.blog/pt/posts/</loc>
     <lastmod>2025-09-20T15:32:09-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chaveshigor.github.io/blog/en/posts/"
+                href="https://higor.blog/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://chaveshigor.github.io/blog/pt/posts/"
+                href="https://higor.blog/pt/posts/"
                 />
   </url><url>
-    <loc>https://chaveshigor.github.io/blog/pt/categories/tutoriais/</loc>
+    <loc>https://higor.blog/pt/categories/tutoriais/</loc>
     <lastmod>2025-09-20T15:32:09-03:00</lastmod>
   </url><url>
-    <loc>https://chaveshigor.github.io/blog/pt/tags/</loc>
+    <loc>https://higor.blog/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chaveshigor.github.io/blog/en/tags/"
+                href="https://higor.blog/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://chaveshigor.github.io/blog/pt/tags/"
+                href="https://higor.blog/pt/tags/"
                 />
   </url>
 </urlset>

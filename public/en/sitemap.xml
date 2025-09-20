@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chaveshigor.github.io/blog/en/categories/</loc>
+    <loc>https://higor.blog/en/categories/</loc>
     <lastmod>2025-09-20T15:32:15-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://chaveshigor.github.io/blog/pt/categories/"
+                href="https://higor.blog/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chaveshigor.github.io/blog/en/categories/"
+                href="https://higor.blog/en/categories/"
                 />
   </url><url>
-    <loc>https://chaveshigor.github.io/blog/en/</loc>
+    <loc>https://higor.blog/en/</loc>
     <lastmod>2025-09-20T15:32:15-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://chaveshigor.github.io/blog/pt/"
+                href="https://higor.blog/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chaveshigor.github.io/blog/en/"
+                href="https://higor.blog/en/"
                 />
   </url><url>
-    <loc>https://chaveshigor.github.io/blog/en/posts/my-post/</loc>
+    <loc>https://higor.blog/en/posts/my-post/</loc>
     <lastmod>2025-09-20T15:32:15-03:00</lastmod>
   </url><url>
-    <loc>https://chaveshigor.github.io/blog/en/categories/news/</loc>
+    <loc>https://higor.blog/en/categories/news/</loc>
     <lastmod>2025-09-20T15:32:15-03:00</lastmod>
   </url><url>
-    <loc>https://chaveshigor.github.io/blog/en/posts/</loc>
+    <loc>https://higor.blog/en/posts/</loc>
     <lastmod>2025-09-20T15:32:15-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://chaveshigor.github.io/blog/pt/posts/"
+                href="https://higor.blog/pt/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chaveshigor.github.io/blog/en/posts/"
+                href="https://higor.blog/en/posts/"
                 />
   </url><url>
-    <loc>https://chaveshigor.github.io/blog/en/categories/tutorials/</loc>
+    <loc>https://higor.blog/en/categories/tutorials/</loc>
     <lastmod>2025-09-20T15:32:15-03:00</lastmod>
   </url><url>
-    <loc>https://chaveshigor.github.io/blog/en/tags/</loc>
+    <loc>https://higor.blog/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://chaveshigor.github.io/blog/pt/tags/"
+                href="https://higor.blog/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chaveshigor.github.io/blog/en/tags/"
+                href="https://higor.blog/en/tags/"
                 />
   </url>
 </urlset>
