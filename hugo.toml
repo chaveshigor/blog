@@ -18,7 +18,7 @@ defaultContentLanguageInSubdir = true
     [languages.pt.params.sidebar]
       title = "Sobre mim"
       subtitle = "Blog pessoal"
-      emoji = "🍥"
+      emoji = "🧑‍💻"
 
       [languages.pt.params.sidebar.avatar]
         enabled = true
@@ -39,7 +39,7 @@ defaultContentLanguageInSubdir = true
     [languages.en.params.sidebar]
       title = "About Me"
       subtitle = "Personal blog"
-      emoji = "🍥"
+      emoji = "🧑‍💻"
 
       [languages.en.params.sidebar.avatar]
         enabled = true
