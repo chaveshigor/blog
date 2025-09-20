@@ -1,0 +1,139 @@
+baseURL = "https://chaveshigor.github.io/blog/"
+languageCode = "en-us"
+title = "Blog do Higor"
+theme = "stack"
+copyright = "Higor"
+
+DefaultContentLanguage = "pt"
+defaultContentLanguageInSubdir = true
+
+# Idiomas
+[languages]
+
+  [languages.pt]
+    languageName = "Português"
+    title = "Higor"
+    weight = 1
+
+    [languages.pt.params.sidebar]
+      title = "Sobre mim"
+      subtitle = "Blog pessoal"
+      emoji = "🍥"
+
+      [languages.pt.params.sidebar.avatar]
+        enabled = true
+        local = true
+        src = "img/avatar.png"
+
+      showAuthor = true
+      showCategories = true
+      showTags = true
+      showRecent = true
+      showSocial = true
+
+  [languages.en]
+    languageName = "English"
+    title = "Higor"
+    weight = 2
+
+    [languages.en.params.sidebar]
+      title = "About Me"
+      subtitle = "Personal blog"
+      emoji = "🍥"
+
+      [languages.en.params.sidebar.avatar]
+        enabled = true
+        local = true
+        src = "img/avatar.png"
+
+      showAuthor = true
+      showCategories = true
+      showTags = true
+      showRecent = true
+      showSocial = true
+
+# Taxonomias
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Parâmetros gerais do tema
+[params]
+  mainSections = ["posts"]
+  enableCategories = true
+  featuredImageField = "image"
+  rssFullContent = true
+
+# Menus
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Início"
+    url = "/pt/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/pt/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categorias"
+    url = "/pt/categories/"
+    weight = 3
+
+  [[menu.social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/chaveshigor"
+    [menu.social.params]
+      icon = "brand-github"
+
+  [[menu.social]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/seunome"
+    [menu.social.params]
+      icon = "brand-twitter"
+
+  # [[menu.social]]
+  #   identifier = "linkedin"
+  #   name = "LinkedIn"
+  #   url = "https://linkedin.com/in/seunome"
+  #   [menu.social.params]
+  #     icon = "brand-linkedin"
+
+  # [[menu.social]]
+  #   identifier = "instagram"
+  #   name = "Instagram"
+  #   url = "https://instagram.com/seunome"
+  #   [menu.social.params]
+  #     icon = "brand-instagram"
+
+# Widgets
+[params.widgets]
+
+  [[params.widgets.homepage]]
+    type = "search"
+
+  [[params.widgets.homepage]]
+    type = "archives"
+    [params.widgets.homepage.params]
+      limit = 5
+
+  [[params.widgets.homepage]]
+    type = "categories"
+    [params.widgets.homepage.params]
+      limit = 10
+
+  [[params.widgets.homepage]]
+    type = "tag-cloud"
+    [params.widgets.homepage.params]
+      limit = 10
+
+  [[params.widgets.page]]
+    type = "toc"
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Higor</title>
+        <link>https://chaveshigor.github.io/blog/pt/categories/</link>
+        <description>Recent content in Categories on Higor</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>pt</language>
+        <copyright>Higor</copyright>
+        <lastBuildDate>Sat, 20 Sep 2025 15:32:09 -0300</lastBuildDate><atom:link href="https://chaveshigor.github.io/blog/pt/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Notícias</title>
+        <link>https://chaveshigor.github.io/blog/pt/categories/not%C3%ADcias/</link>
+        <pubDate>Sat, 20 Sep 2025 15:32:09 -0300</pubDate>
+        
+        <guid>https://chaveshigor.github.io/blog/pt/categories/not%C3%ADcias/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tutoriais</title>
+        <link>https://chaveshigor.github.io/blog/pt/categories/tutoriais/</link>
+        <pubDate>Sat, 20 Sep 2025 15:32:09 -0300</pubDate>
+        
+        <guid>https://chaveshigor.github.io/blog/pt/categories/tutoriais/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
